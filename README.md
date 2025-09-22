@@ -1,4 +1,4 @@
-# Despliegue de un Web Server en Azure con Terraform
+# Despliegue de infraestuctura en Azure con Terraform
 
 ## Introducción
 Este documento explica el proceso que seguí para desplegar un servicio en **Azure** utilizando **Terraform**.  
